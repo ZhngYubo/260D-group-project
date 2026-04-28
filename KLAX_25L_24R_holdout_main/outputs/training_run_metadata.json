@@ -1,0 +1,11 @@
+{
+  "input_csv": "/Users/zhangyubo/Documents/Codex/2026-04-17-files-mentioned-by-the-user-1/KLAX_25L_24R_holdout_main/data/opensky_lax_segments_with_runway_25L_24R_only.csv",
+  "output_dir": "/Users/zhangyubo/Documents/Codex/2026-04-17-files-mentioned-by-the-user-1/KLAX_25L_24R_holdout_main/outputs",
+  "n_trajectories": 4571,
+  "n_trained_runways": 2,
+  "samples_per_feature": 100,
+  "feature_vector_dim": 200,
+  "min_samples": 20,
+  "seed": 42,
+  "holdout_fraction": 0.2
+}
