@@ -75,11 +75,9 @@
 - `outputs/analysis/top6_anomaly_explanations.csv`
 - `outputs/visualizations/anomaly_vs_typical_top4_25L_24R_only_holdout.png`
 
-## 旧目录怎么处理
+## 后续可进一步分析的思路
 
-旧目录先保留，不删除，但不再作为主分析引用：
-- `KLAX_runway_autoencoder_mastermatched_clean/`
-- `KLAX_runway_autoencoder_25L_24R_only/`
-- 更早的 `output_*` 探索目录
-
-后续如果我继续帮你做更完整分析，我会默认从这个文件夹继续往下做。
+- 对高分异常轨迹的解释
+- 区分 VECTORED_FINAL 和 ALIGNED_FINAL
+- 轨迹几何特征分析
+- 结合天气、时间分析运营情况？
