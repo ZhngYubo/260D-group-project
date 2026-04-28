@@ -1,0 +1,16 @@
+{
+  "model_family": "runway-conditioned pointwise autoencoder",
+  "estimator": "sklearn.neural_network.MLPRegressor",
+  "trained_runways": [
+    "06L",
+    "06R",
+    "07L",
+    "07R",
+    "24L",
+    "24R",
+    "25L",
+    "25R"
+  ],
+  "min_samples": 20,
+  "seed": 42
+}

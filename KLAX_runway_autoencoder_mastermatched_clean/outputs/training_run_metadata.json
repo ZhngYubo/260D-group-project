@@ -1,0 +1,10 @@
+{
+  "input_csv": "/Users/zhangyubo/Documents/Codex/2026-04-17-files-mentioned-by-the-user-1/opensky_lax_segments_with_runway.csv",
+  "output_dir": "/Users/zhangyubo/Documents/Codex/2026-04-17-files-mentioned-by-the-user-1/KLAX_runway_autoencoder_mastermatched_clean/outputs",
+  "n_trajectories": 5077,
+  "n_trained_runways": 8,
+  "samples_per_feature": 100,
+  "feature_vector_dim": 200,
+  "min_samples": 20,
+  "seed": 42
+}
