@@ -1,5 +1,7 @@
 *
 !KLAX_runway_autoencoder_mastermatched_clean/
 !KLAX_runway_autoencoder_mastermatched_clean/**
+!KLAX_25L_24R_holdout_main/
+!KLAX_25L_24R_holdout_main/**
 *.csv
 !.gitignore
