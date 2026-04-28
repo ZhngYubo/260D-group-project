@@ -1,2 +1,5 @@
+*
+!KLAX_runway_autoencoder_mastermatched_clean/
+!KLAX_runway_autoencoder_mastermatched_clean/**
 *.csv
 !.gitignore
